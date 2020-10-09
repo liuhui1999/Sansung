@@ -1,0 +1,78 @@
+[
+    {
+      "childs": [
+        {
+            "id":0,
+          "title": "Galaxy S20 Ultra 5G",
+          "listprice": "9999",
+          "pcImgpc": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_S20u_800_800..jpg",
+          "num":0
+          
+        },
+        {
+            "id":1,
+          "title": "Galaxy Z Flip 5G",
+          "listprice": 12499.00,
+          "pcImgpc": "https://static.samsungeshop.com.cn/prod/resources/2020/7/2015952548141604137_900X900.jpg",
+          "num":0
+        },
+       
+        {
+            "id":2,
+          "title": "Samsung Galaxy S20 5G",
+          "listprice": 6999.00,
+          "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg",
+          "num":0
+        },
+        {
+            "id":3,
+          "title": "Galaxy Z Fold2 5G",
+          "listprice": 16999.00,
+          "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/9/415992235060804830_293X293.jpg",
+          "num":0
+        },
+        {
+            "id":4,
+            "title": "Samsung Galaxy S20+ 5G",
+            "listprice": 7999.00,
+            "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814925092241862_293X293.jpg",
+            "num":0
+        },
+        {
+            "id":5,
+            "title": "Galaxy A71 5G 切割蓝",
+            "listprice": 9999.00,
+            "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814926749554655_293X293.jpg",
+            "num":0
+        },
+        {
+            "id":6,
+            "title": "Galaxy Note20 Ultra 5G",
+            "listprice": 9199.00,
+            "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964622267047048_293X293.jpg",
+            "num":0
+        },
+        {
+            "id":7,
+            "title": "Samsung Galaxy S20 5G",
+            "listprice": 6999.00,
+            "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg",
+            "num":0
+        },
+        {
+            "id":8,
+            "title": "Galaxy S10 8GB+128GB",
+            "listprice": 9999.00,
+            "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg",
+            "num":0
+        },
+        {
+            "id":9,
+            "title": "Galaxy A71 5G 镭丝黑",
+            "listprice": 9999.00,
+            "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/4/7/15862434653222498_293X293.jpg",
+            "num":0
+        }
+      ]
+    }
+  ]

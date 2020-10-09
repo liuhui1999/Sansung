@@ -1,0 +1,31 @@
+console.log("加载成功");
+require.config({
+    paths:{         
+        "jquery":"jquery-1.11.3",
+        "jquery-cookie":"jquery.cookie",
+        "banner":"banner",
+       
+    },
+    shim:{
+        //设置依赖关系
+    "jquery-cookie":["jquery"]
+    }
+})
+
+require(['banner'],function(banner){
+    banner.addbanner();
+    banner.adddownload();
+    banner.topNavTab();
+    banner.topDownLoadShopping();
+    banner.topDownLoadShoppingtab();
+    banner.wearableItem();
+    banner.wearableItemtab();
+    banner.ctvItemtab();
+    banner.ctvItem();
+    banner.computerItemtab();
+    banner.computerItem();
+    banner.accessoryItem();
+    banner.accessoryItemtab();
+    banner.homeItem();
+    banner.homeItemtab();
+})

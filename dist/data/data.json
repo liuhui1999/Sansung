@@ -1,0 +1,1762 @@
+{
+  "statusCode": "10002000",
+  "message": "success",
+  "data": {
+    "indexKv": {
+      "lists": [
+        {
+          "sort": 1,
+          "uploaded_date": "20200920",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/20/0920_KV_8ktv_1920_427.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/20/0920_KV_8ktv_720_643.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/TV-Promotions202008"
+        },
+        {
+          "sort": 2,
+          "uploaded_date": "20200831",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_KV_N20_1920_427.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_KV_N20_720_643.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyNewProduct2020"
+        },
+        {
+          "sort": 3,
+          "uploaded_date": "20200910",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/10/0910_KV_App_1920_427.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/10/0910_KV_App_720_643.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/SamsungAPPActivity"
+        },
+        {
+          "sort": 5,
+          "uploaded_date": "20200923",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/23/0923_KV_S20fe_1920_427.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/23/0923_KV_S20fe_720_643.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyS20FE"
+        },
+        {
+          "sort": 0,
+          "uploaded_date": "20200909",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/9/0909_KV_Fold2_1920_427.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/9/0909_KV_Fold2_720_643.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyZFold2"
+        },
+        {
+          "sort": 4,
+          "uploaded_date": "20200920",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/4/0904_KV_studentpurchase_1920_427.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/4/0904_KV_studentpurchase_720_643.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/StudentPurchase"
+        }
+      ]
+    },
+    "rightFixedBar": {
+      "lists": [
+        {
+          "sort": 1,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/gerenzhongxin_xiaoping_30_44.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/gerenzhongxin_PC_91_92.png",
+          "button_name": "center",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/gerenzhongxin_M_118_96.png",
+          "type": "个人中心"
+        },
+        {
+          "sort": 2,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/lianxikefu_xiaoping_30_44.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/lianxikefu_PC_91_92.png",
+          "button_name": "kefu",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/lianxikefu_M_118_96.png",
+          "type": "联系客服"
+        },
+        {
+          "sort": 3,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/gouwuche_xiaoping_30_44.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/gouwuche_PC_91_92.png",
+          "button_name": "cart",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/gouwuche_M_118_96.png",
+          "type": "购物车",
+          "url": "/shopping/cart.htm"
+        }
+      ]
+    },
+    "leftFixedBar": {
+      "lists": [
+        {
+          "sort": 1,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/2020/7/23/zhinengshouji_xiaoping_30_46.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/7/23/zhinengshouji_PC_91_101.png",
+          "button_name": "phone"
+        },
+        {
+          "sort": 2,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/chuandai_xiaoping_30_46.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/chuandai_PC_91_101.png",
+          "button_name": "wear"
+        },
+        {
+          "sort": 5,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/ACC_xiaoping_30_45.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/ACC_PC_91_101.png",
+          "button_name": "ACC"
+        },
+        {
+          "sort": 4,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/NPC_xiaoping_30_45.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/200330NPC_PC_91_101.png",
+          "button_name": "NPC"
+        },
+        {
+          "sort": 6,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/IoT_xiaoping_30_45.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/IoT_PC_91_101.png",
+          "button_name": "IoT"
+        },
+        {
+          "sort": 3,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/2020/7/23/CTV_30_46.png",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/14/CTV_New4_91_101.png",
+          "button_name": "CTV"
+        }
+      ]
+    },
+    "hotItem": {
+      "sort": 0,
+      "lists": [
+        {
+          "title": "热销推荐",
+          "categorys": [
+            {
+              "items": [
+                {
+                  "title": "Galaxy S20 Ultra 5G",
+                  "sort": 2,
+                  "salesprice": "9999起",
+                  "mobileImgmobile": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_S20u_800_800..jpg",
+                  "subtitle": "享12期免息 换新补贴至高1000元",
+                  "pcImgpc": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_S20u_800_800..jpg",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9880.htm"
+                },
+                {
+                  "title": "Galaxy Z Flip 5G",
+                  "sort": 1,
+                  "salesprice": 12499.00,
+                  "mobileImgmobile": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_Z_flip5G_800_800.jpg",
+                  "subtitle": "享24期免息 赠好礼",
+                  "listprice": 12499.00,
+                  "pcImgpc": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_Z_flip5G_800_800.jpg",
+                  "extentionCode": "T070119",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-F7070.htm"
+                },
+                {
+                  "title": "Galaxy S20 5G",
+                  "sort": 3,
+                  "salesprice": 6999.00,
+                  "mobileImgmobile": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_S20_800_800..jpg",
+                  "subtitle": "享12期免息 换新补贴至高1000元",
+                  "listprice": 6999.00,
+                  "pcImgpc": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_S20_800_800..jpg",
+                  "extentionCode": "T070094",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9810.htm"
+                },
+                {
+                  "title": "Galaxy Note20 Ultra 5G",
+                  "sort": 0,
+                  "salesprice": "9199起",
+                  "mobileImgmobile": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_N20u_800_800.jpg",
+                  "subtitle": "享12期免息 赠好礼",
+                  "pcImgpc": "https://static.samsungeshop.com.cn/uat/resources/2020/9/14/0914_tuijianbanner_N20u_800_800.jpg",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9860.htm"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "activityColumn": {
+      "lists": [
+        {
+          "sort": 0,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/2020/9/7/App_30_46.jpg",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/7/App2_91_91.jpg",
+          "button_name": "New",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/7/App2_91_91.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/SamsungAPPActivity"
+        },
+        {
+          "sort": 2,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/30-2_191213_1.jpg",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/91-2_191216.jpg",
+          "button_name": "couponsInfo",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/91-2_191216.jpg",
+          "type": "优惠券",
+          "url": "https://www.samsungeshop.com.cn/member/coupons/couponsInfo.htm?couponState=0"
+        },
+        {
+          "sort": 3,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/waitandian_30_45.jpg",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/waitandian_91_91.jpg",
+          "button_name": "mendian",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/Icon/waitandian_91_91.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/SHO2O"
+        },
+        {
+          "sort": 1,
+          "smallicon": "https://static.samsungeshop.com.cn/prod/resources/2020/8/9/YJHX_1_30_45.jpg",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/8/9/YJHX_1_91_91.jpg",
+          "button_name": "xinpin",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/8/9/YJHX_1_91_91.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/OldForNewService"
+        }
+      ]
+    },
+    "homeItem": {
+      "sort": 7,
+      "lists": [
+        {
+          "title": "智能家居",
+          "categorys": [
+            {
+              "listName": "健康生活类",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0519_long_Banner_taideng_M_750_310.jpg",
+              "sort": 0,
+              "items": [
+                {
+                  "title": "智能台灯",
+                  "sort": 2,
+                  "salesprice": 219.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/16/15579915843988474_293X293.jpg",
+                  "listprice": 219.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/16/15579915843988474_293X293.jpg",
+                  "extentionCode": "T090172",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-LLU019OPAWC.htm"
+                },
+                {
+                  "title": "智能体脂秤",
+                  "sort": 0,
+                  "salesprice": 119.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/4/30/15565548157305245_293X293.jpg",
+                  "listprice": 119.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/4/30/15565548157305245_293X293.jpg",
+                  "extentionCode": "T090181",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/M1501.htm"
+                },
+                {
+                  "title": "智能空气检测仪",
+                  "sort": 1,
+                  "salesprice": 499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/1557318629330208_293X293.jpg",
+                  "listprice": 499.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/1557318629330208_293X293.jpg",
+                  "extentionCode": "T090163",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U9997HVLACA.htm"
+                },
+                {
+                  "title": "Jimu-变形工程车（锂电池）",
+                  "sort": 3,
+                  "salesprice": 999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/4/30/15566134222447793_293X293.jpg",
+                  "listprice": 999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/4/30/15566134222447793_293X293.jpg",
+                  "extentionCode": "T090176",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/JAR0101.htm"
+                },
+                {
+                  "title": "Alpha Mini便携式机器人",
+                  "sort": 4,
+                  "salesprice": 4999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/4/30/15566134691915266_293X293.jpg",
+                  "listprice": 4999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/4/30/15566134691915266_293X293.jpg",
+                  "extentionCode": "T090175",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/ALPHAMINI.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-LLU019OPAWC.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/Connect/healthy",
+              "uploaded_date": "20200827",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_Banner_taideng_PC_292_712.jpg"
+            },
+            {
+              "listName": "便携生活类",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0519_long_Banner_DP739_M_750_310.jpg",
+              "sort": 1,
+              "items": [
+                {
+                  "title": "三星智能锁 SHP-DP739电子门锁(外推式)",
+                  "sort": 4,
+                  "salesprice": 3580.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/3/15674931330369221_293X293.jpg",
+                  "subtitle": "推拉式门锁 可手机远程开锁",
+                  "listprice": 3580.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/3/15674931330369221_293X293.jpg",
+                  "extentionCode": "T090173",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SHP-DP739B.htm"
+                },
+                {
+                  "title": "三星智能锁 SHP-DP739电子门锁(外拉式)",
+                  "sort": 5,
+                  "salesprice": 3580.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/3/15674931818363338_293X293.jpg",
+                  "subtitle": "推拉式门锁 可手机远程开锁",
+                  "listprice": 3580.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/3/15674931818363338_293X293.jpg",
+                  "extentionCode": "T090174",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SHP-DP739D.htm"
+                },
+                {
+                  "title": "智能球泡灯",
+                  "sort": 2,
+                  "salesprice": 65.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/1557318087323141_293X293.jpg",
+                  "subtitle": "智能照明 升级家居品质",
+                  "listprice": 65.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/1557318087323141_293X293.jpg",
+                  "extentionCode": "T090171",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999BBVLACA.htm"
+                },
+                {
+                  "title": "智能插座",
+                  "sort": 0,
+                  "salesprice": 60.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573172436408281_293X293.jpg",
+                  "subtitle": "定时充电 远程控制 安全节能",
+                  "listprice": 60.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573172436408281_293X293.jpg",
+                  "extentionCode": "T090168",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999OREEAAA.htm"
+                },
+                {
+                  "title": "智能墙面开关",
+                  "sort": 3,
+                  "salesprice": 339.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573177720394347_293X293.jpg",
+                  "subtitle": "定时开关 智变生活",
+                  "listprice": 339.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573177720394347_293X293.jpg",
+                  "extentionCode": "T090169",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999OREEBAA.htm"
+                },
+                {
+                  "title": "智能遥控器",
+                  "sort": 1,
+                  "salesprice": 88.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573187535767264_293X293.jpg",
+                  "subtitle": "远程遥控 舒适抢先一步",
+                  "listprice": 88.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573187535767264_293X293.jpg",
+                  "extentionCode": "T090162",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999CEVLBCA.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SHP-DP739B.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/Connect/life",
+              "uploaded_date": "20200519",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/fenleibanner/long_Banner_DP739_PC_1210.jpg"
+            },
+            {
+              "listName": "安全智能类",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0519_long_Banner_wangguan_M_750_310.jpg",
+              "sort": 2,
+              "items": [
+                {
+                  "title": "无线开关",
+                  "sort": 2,
+                  "salesprice": 110.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573184141983006_293X293.jpg",
+                  "subtitle": "三控操作 感应按压",
+                  "listprice": 110.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573184141983006_293X293.jpg",
+                  "extentionCode": "T090167",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999SJVLECA.htm"
+                },
+                {
+                  "title": "智能网关",
+                  "sort": 0,
+                  "salesprice": 399.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573185127444984_293X293.jpg",
+                  "subtitle": "有线无线 双网接入",
+                  "listprice": 399.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573185127444984_293X293.jpg",
+                  "extentionCode": "T090164",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999SJVLOCA.htm"
+                },
+                {
+                  "title": "烟雾传感器",
+                  "sort": 1,
+                  "salesprice": 209.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/3/15674786577335229_293X293.jpg",
+                  "subtitle": "高灵敏高稳定的光电传感器",
+                  "listprice": 209.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/3/15674786577335229_293X293.jpg",
+                  "extentionCode": "T090170",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SF21.htm"
+                },
+                {
+                  "title": "人体传感器",
+                  "sort": 3,
+                  "salesprice": 159.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573182613187808_293X293.jpg",
+                  "subtitle": "方便检测房间温度",
+                  "listprice": 159.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573182613187808_293X293.jpg",
+                  "extentionCode": "T090166",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999SJVLBCA.htm"
+                },
+                {
+                  "title": "门窗传感器",
+                  "sort": 4,
+                  "salesprice": 129.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573175609289048_293X293.jpg",
+                  "subtitle": "感知门窗开启或者关闭",
+                  "listprice": 129.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/5/8/15573175609289048_293X293.jpg",
+                  "extentionCode": "T090165",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999SJVLACA.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-U999SJVLOCA.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/Connect/Security",
+              "uploaded_date": "20200827",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/ckimg/images/KVbanner/2019/201912/fenleibanner/long_Banner_wangguan_PC_1210.jpg"
+            }
+          ],
+          "moreUrl": "https://www.samsungeshop.com.cn/search/Connect"
+        }
+      ]
+    },
+    "computerItem": {
+      "sort": 4,
+      "lists": [
+        {
+          "wear_list": [
+            {
+              "sort": 1,
+              "uploaded_date": "20200922",
+              "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/22/0922_MKV_980pro_1220_184.jpg",
+              "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/22/0922_MKV_980pro_750_310.jpg",
+              "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/MZ-V8.htm",
+              "isShow": 1
+            }
+          ],
+          "title": "电脑/平板/存储",
+          "categorys": [
+            {
+              "listName": "笔记本电脑",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/7/0907_long_Banner_flexi_M_683_396.jpg",
+              "sort": 0,
+              "items": [
+                {
+                  "title": "Samsung Galaxy Book S 767XCM-K02",
+                  "sort": 5,
+                  "salesprice": 7999.00,
+                  "tag": "https://res.samsungshop.com.cn/resources/ckimg/images/KVbanner/2019/201907/tag/tag_chang_red_xinpinshangshi.jpg",
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/15942158449172220_293X293.jpg",
+                  "subtitle": "6期免息",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/15942158449172220_293X293.jpg",
+                  "extentionCode": "T030042",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/NP767XCM-K02CN.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Book Flex 950QCG-X01",
+                  "sort": 3,
+                  "salesprice": 13999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/1594215581515936_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 13999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/1594215581515936_293X293.jpg",
+                  "extentionCode": "T030031",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/NP950QCG-X01CN.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Book Flex 950QCG-X03",
+                  "sort": 0,
+                  "salesprice": 13999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972010598835383_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 13999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972010598835383_293X293.jpg",
+                  "extentionCode": "T030044",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/NP950QCG-X03CN.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Book Flex 930QCG-K01",
+                  "sort": 2,
+                  "salesprice": 12999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/15942155292351947_293X293.jpg",
+                  "subtitle": "优惠200元 享6期免息",
+                  "listprice": 13199.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/15942155292351947_293X293.jpg",
+                  "extentionCode": "T030029",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/NP930QCG-K01CN.htm"
+                },
+                {
+                  "title": "NP930QCG-K03CN",
+                  "sort": 1,
+                  "salesprice": 12999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/715967809943293338_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 12999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/715967809943293338_293X293.jpg",
+                  "extentionCode": "T030043",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/NP930QCG-K03CN.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Book S 767XCM-K01",
+                  "sort": 4,
+                  "salesprice": 7999.00,
+                  "tag": "https://res.samsungshop.com.cn/resources/ckimg/images/KVbanner/2019/201907/tag/tag_chang_red_xinpinshangshi.jpg",
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/15942158835985172_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/8/15942158835985172_293X293.jpg",
+                  "extentionCode": "T030041",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/NP767XCM-K01CN.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/NP950QCG-X03CN.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/npc",
+              "uploaded_date": "20200818",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/7/0907_long_Banner_flexi_PC_292_712.jpg"
+            },
+            {
+              "listName": "平板电脑",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_banner_TabS7_750_310.jpg",
+              "sort": 1,
+              "items": [
+                {
+                  "title": "Galaxy Tab S7 WLAN",
+                  "sort": 1,
+                  "salesprice": 5199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/12159721845104327_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 5199.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/12159721845104327_293X293.jpg",
+                  "extentionCode": "T050054",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-T870.htm"
+                },
+                {
+                  "title": "Galaxy Tab S6",
+                  "sort": 2,
+                  "salesprice": 5299.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/29/15697423281461601_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 5299.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/29/15697423281461601_293X293.jpg",
+                  "extentionCode": "T050024",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-T860.htm"
+                },
+                {
+                  "title": "Galaxy Tab S7 WLAN 键盘套装",
+                  "sort": 5,
+                  "salesprice": 6699.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1315973178251761551_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 6699.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1315973178251761551_293X293.jpg",
+                  "extentionCode": "T050050",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-T870B.htm"
+                },
+                {
+                  "title": "Galaxy Tab S7+ WLAN",
+                  "sort": 0,
+                  "salesprice": 6699.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972190579236821_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 6699.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972190579236821_293X293.jpg",
+                  "extentionCode": "T050049",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-T970.htm"
+                },
+                {
+                  "title": "Galaxy Tab S6 Lite 4G",
+                  "sort": 3,
+                  "salesprice": 3099.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/5/21/15900504572667843_293X293.jpg",
+                  "subtitle": "享3期免息 赠好礼",
+                  "listprice": 3099.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/5/21/15900504572667843_293X293.jpg",
+                  "extentionCode": "T050040",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-P615.htm"
+                },
+                {
+                  "title": "Galaxy Tab S7+ WLAN 键盘套装",
+                  "sort": 4,
+                  "salesprice": 8399.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1315973180588078599_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 8399.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1315973180588078599_293X293.jpg",
+                  "extentionCode": "T050045",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-T970B.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyNewProduct2020",
+              "linkurl": "https://www.samsungeshop.com.cn/search/tab",
+              "uploaded_date": "20200827",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_banner_TabS7_292_712.jpg"
+            },
+            {
+              "listName": "存储产品",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/2/0902_long_banner_memory-storage_750_310.jpg",
+              "sort": 2,
+              "items": [
+                {
+                  "title": "860 EVO 2.5英寸 SATAIII 固态硬盘 500GB版",
+                  "sort": 0,
+                  "salesprice": 479.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/3/26/15852176465748138_293X293.jpg",
+                  "subtitle": "强劲的性能 稳定性的提升",
+                  "listprice": 549.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/3/26/15852176465748138_293X293.jpg",
+                  "extentionCode": "E0012096",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/MZ-76E.htm"
+                },
+                {
+                  "title": "970 EVO Plus NVMe M.2 固态硬盘 500GB版",
+                  "sort": 1,
+                  "salesprice": 1469.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/3/26/15852199530424310_293X293.jpg",
+                  "subtitle": "不断超越的SSD",
+                  "listprice": 1599.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/3/26/15852199530424310_293X293.jpg",
+                  "extentionCode": "E0012117",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/MZ-V7S.htm"
+                },
+                {
+                  "title": "870 QVO SATA 2.5英寸 固态硬盘 1TB版",
+                  "sort": 2,
+                  "salesprice": 769.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/2915960063827705601_293X293.jpg",
+                  "subtitle": "全面升级，性能优异",
+                  "listprice": 849.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/2915960063827705601_293X293.jpg",
+                  "extentionCode": "E0012798",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/MZ-77.htm"
+                },
+                {
+                  "title": "T7 USB3.2 Gen2 移动固态硬盘 太空灰 1TB版",
+                  "sort": 3,
+                  "salesprice": 1259.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/5/29/15907190909621820_293X293.jpg",
+                  "subtitle": "快如闪电的传输速度",
+                  "listprice": 1299.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/5/29/15907190909621820_293X293.jpg",
+                  "extentionCode": "E0012668",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/MU-PCGrey.htm"
+                },
+                {
+                  "title": "EVO升级版+ MicroSD存储卡 128GB版",
+                  "sort": 4,
+                  "salesprice": 235.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/10/15917750955593468_293X293.jpg",
+                  "subtitle": "大容量，让您自由前行",
+                  "listprice": 259.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/10/15917750955593468_293X293.jpg",
+                  "extentionCode": "E0012469",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/MB-MC.htm"
+                },
+                {
+                  "title": "BAR升级版+ USB3.1 Gen1 闪存盘 香槟银 128GB版",
+                  "sort": 5,
+                  "salesprice": 140.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/3/26/15852223285663895_293X293.jpg",
+                  "subtitle": "传输迅猛 USB 3.1标准",
+                  "listprice": 150.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/3/26/15852223285663895_293X293.jpg",
+                  "extentionCode": "E0012502",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/MUF-Gold.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/search/memory/pssd",
+              "linkurl": "https://www.samsungeshop.com.cn/search/memory",
+              "uploaded_date": "20200902",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/2/0902_long_banner_memory-storage_292_712.jpg"
+            }
+          ],
+          "moreUrl": "https://www.samsungeshop.com.cn/search/npc"
+        }
+      ]
+    },
+    "mobileItem": {
+      "sort": 1,
+      "lists": [
+        {
+          "wear_list": [
+            {
+              
+            }
+          ],
+          "title": "智能手机",
+          "categorys": [
+            {
+              "listName": "全部",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_Banner_n20_M_750_310.jpg",
+              "sort": 0,
+              "items": [
+                {
+                  "title": "Galaxy Z Flip 5G",
+                  "sort": 2,
+                  "salesprice": 12499.00,
+                  "mobileImgmobile": "https://static.samsungeshop.com.cn/prod/resources/2020/7/2015952548141604137_900X900.jpg",
+                  "subtitle": "享24期免息 赠好礼",
+                  "listprice": 12499.00,
+                  "pcImgpc": "https://static.samsungeshop.com.cn/prod/resources/2020/7/2015952548141604137_900X900.jpg",
+                  "extentionCode": "T070128",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-F7070.htm"
+                },
+                {
+                  "title": "Samsung Galaxy S20 5G",
+                  "sort": 3,
+                  "salesprice": 6999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg",
+                  "subtitle": "享12期免息 换新补贴至高1000元",
+                  "listprice": 6999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg",
+                  "extentionCode": "T070095",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9810.htm"
+                },
+                {
+                  "title": "Galaxy Z Fold2 5G",
+                  "sort": 0,
+                  "salesprice": 16999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/9/415992235060804830_293X293.jpg",
+                  "subtitle": "全款预订 享至高24期免息",
+                  "listprice": 16999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/9/415992235060804830_293X293.jpg",
+                  "extentionCode": "T070126",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-F9160.htm"
+                },
+                {
+                  "title": "Samsung Galaxy S20+ 5G",
+                  "sort": 4,
+                  "salesprice": 7999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814925092241862_293X293.jpg",
+                  "subtitle": "享12期免息 换新补贴至高1000元",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814925092241862_293X293.jpg",
+                  "extentionCode": "T070096",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9860/1286.htm"
+                },
+                {
+                  "title": "Samsung Galaxy S20 Ultra 5G",
+                  "sort": 5,
+                  "salesprice": 9999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814926749554655_293X293.jpg",
+                  "subtitle": "享12期免息 换新补贴至高1000元",
+                  "listprice": 9999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814926749554655_293X293.jpg",
+                  "extentionCode": "T070099",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9880/1286.htm"
+                },
+                {
+                  "title": "Galaxy Note20 Ultra 5G",
+                  "sort": 1,
+                  "salesprice": 9199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964622267047048_293X293.jpg",
+                  "subtitle": "换新补贴400元 享12期免息",
+                  "listprice": 9199.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964622267047048_293X293.jpg",
+                  "extentionCode": "T070113",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9860.htm"
+                }
+              ],
+              "needBroadwiseShow": true,
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyNewProduct2020",
+              "linkurl": "https://www.samsungeshop.com.cn/search/phone",
+              "uploaded_date": "20200827",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_Banner_n20_PC_292_712.jpg"
+            },
+            {
+              "listName": "Galaxy S",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/21/0921_long_Banner_S20P_M_750_310.jpg",
+              "sort": 1,
+              "items": [
+                {
+                  "title": "Samsung Galaxy S20 5G",
+                  "sort": 0,
+                  "salesprice": 6999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg",
+                  "subtitle": "换新补贴1000元 享12期免息",
+                  "listprice": 6999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg",
+                  "extentionCode": "T070095",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9810.htm"
+                },
+                {
+                  "title": "Galaxy S10 8GB+128GB",
+                  "sort": 5,
+                  "subtitle": "优惠1200元 享好礼三选一",
+                  "extentionCode": "T070032_virtual5",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9730128.htm",
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814923434212036_293X293.jpg"
+                  
+                },
+                {
+                  "title": "Samsung Galaxy S20 Ultra 5G 意象白",
+                  "sort": 2,
+                  "salesprice": 9999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/4/30/15882622404805635_293X293.jpg",
+                  "subtitle": "换新补贴1000元 享12期免息",
+                  "listprice": 9999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/4/30/15882622404805635_293X293.jpg",
+                  "extentionCode": "T070105",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9750.htm"
+                },
+                {
+                  "title": "Samsung Galaxy S20+ 5G",
+                  "sort": 1,
+                  "salesprice": 7999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814925092241862_293X293.jpg",
+                  "subtitle": "换新补贴1000元 享12期免息",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814925092241862_293X293.jpg",
+                  "extentionCode": "T070096",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9860/1286.htm"
+                },
+                {
+                  "title": "Samsung Galaxy S20 Ultra 5G 12GB+256GB",
+                  "sort": 3,
+                  "salesprice": 9999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814925813421450_293X293.jpg",
+                  "subtitle": "换新补贴1000元 享12期免息",
+                  "listprice": 9999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814925813421450_293X293.jpg",
+                  "extentionCode": "T070100",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9880/1286.htm"
+                },
+                {
+                  "title": "Samsung Galaxy S20 Ultra 5G 16GB+512GB",
+                  "sort": 4,
+                  "salesprice": 11199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814926749554655_293X293.jpg",
+                  "subtitle": "换新补贴1000元 享12期免息",
+                  "listprice": 11199.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/2/12/15814926749554655_293X293.jpg",
+                  "extentionCode": "T070101",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9880/1286.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-G9860.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/phone/galaxys",
+              "uploaded_date": "20200921",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/21/0921_long_Banner_S20P_PC_292_712.jpg"
+            },
+            {
+              "listName": "Galaxy Note",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/21/0921_long_Banner_N20u_M_750_310.jpg",
+              "sort": 2,
+              "items": [
+                {
+                  "title": "Galaxy Note10+ 5G 莫奈彩",
+                  "sort": 3,
+                  "salesprice": 7399.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/17/15687163142572094_293X293.jpg",
+                  "subtitle": "优惠600元 享好礼",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/17/15687163142572094_293X293.jpg",
+                  "extentionCode": "T070070",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9760/1188.htm"
+                },
+                {
+                  "title": "Galaxy Note10+ 5G 密斯白",
+                  "sort": 4,
+                  "salesprice": 7399.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/17/15687164175701422_293X293.jpg",
+                  "subtitle": "优惠600元 享好礼",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/17/15687164175701422_293X293.jpg",
+                  "extentionCode": "T070069",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9760/1190.htm"
+                },
+                {
+                  "title": "Galaxy Note10+ 5G 麦昆黑",
+                  "sort": 5,
+                  "salesprice": 7399.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/17/15687164873981382_293X293.jpg",
+                  "subtitle": "优惠600元 享好礼",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/17/15687164873981382_293X293.jpg",
+                  "extentionCode": "T070068",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9760/1189.htm"
+                },
+                {
+                  "title": "Galaxy Note20 Ultra 5G 曜岩黑",
+                  "sort": 2,
+                  "salesprice": 9199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964626643237393_293X293.jpg",
+                  "subtitle": "换新补贴400元 享12期免息",
+                  "listprice": 9199.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964626643237393_293X293.jpg",
+                  "extentionCode": "T070112",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9860.htm"
+                },
+                {
+                  "title": "Galaxy Note20 5G 迷雾金",
+                  "sort": 1,
+                  "salesprice": 7399.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964624899353806_293X293.jpg",
+                  "subtitle": "换新补贴400元 享12期免息",
+                  "listprice": 7399.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964624899353806_293X293.jpg",
+                  "extentionCode": "T070117",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9810.htm"
+                },
+                {
+                  "title": "Galaxy Note20 Ultra 5G 迷雾金",
+                  "sort": 0,
+                  "salesprice": 9199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964622267047048_293X293.jpg",
+                  "subtitle": "换新补贴400元 享12期免息",
+                  "listprice": 9199.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/315964622267047048_293X293.jpg",
+                  "extentionCode": "T070113",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9860.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-N9860.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/phone/galaxynote",
+              "uploaded_date": "20200921",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/21/0921_long_Banner_N20u_PC_292_712.jpg"
+            },
+            {
+              "listName": "Galaxy A",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_Banner_A71_M_683_396.jpg",
+              "sort": 3,
+              "items": [
+                {
+                  "title": "Galaxy A71 5G 切割蓝",
+                  "sort": 0,
+                  "salesprice": 3199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/4/7/15862432972527904_293X293.jpg",
+                  "subtitle": "优惠200元 赠好礼",
+                  "listprice": 3399.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/4/7/15862432972527904_293X293.jpg",
+                  "extentionCode": "T070102",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-A7160.htm"
+                },
+                {
+                  "title": "Galaxy A71 5G 镭丝黑",
+                  "sort": 1,
+                  "salesprice": 3199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/4/7/15862434653222498_293X293.jpg",
+                  "subtitle": "优惠200元 赠好礼",
+                  "listprice": 3399.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/4/7/15862434653222498_293X293.jpg",
+                  "extentionCode": "T070103",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-A7160.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-A7160.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/phone/galaxya",
+              "uploaded_date": "20200827",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_Banner_A71_PC_292_712.jpg"
+            }
+          ],
+          "moreUrl": "https://www.samsungeshop.com.cn/search/phone"
+        }
+      ]
+    },
+    "ctvItem": {
+      "sort": 3,
+      "lists": [
+        {
+          "wear_list": [
+            {
+              
+            }
+          ],
+          "title": "电视/影音/显示器",
+          "categorys": [
+            {
+              "listName": "8K电视",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/16/0916_long_banner_8Ktv_1_750_310.jpg",
+              "sort": 1,
+              "items": [
+                {
+                  "title": "85英寸级 三星QLED 8K电视Q950TS",
+                  "sort": 0,
+                  "salesprice": 99999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/24/15930000666142732_293X293.jpg",
+                  "subtitle": "24期免息  每天低至137元起",
+                  "listprice": 99999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/24/15930000666142732_293X293.jpg",
+                  "extentionCode": "E0012593",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA85Q950TSJXXZ.htm"
+                },
+                {
+                  "title": "75英寸级 三星QLED 8K电视Q950TS",
+                  "sort": 1,
+                  "salesprice": 69999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928820994391194_293X293.jpg",
+                  "subtitle": "24期免息  每天低至95.9元起",
+                  "listprice": 69999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928820994391194_293X293.jpg",
+                  "extentionCode": "E0012594",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA75Q950TSJXXZ.htm"
+                },
+                {
+                  "title": "65英寸级 三星QLED 8K电视Q950TS",
+                  "sort": 2,
+                  "salesprice": 49999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928817657723590_293X293.jpg",
+                  "subtitle": "24期免息 每天低至68.5元起",
+                  "listprice": 49999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928817657723590_293X293.jpg",
+                  "extentionCode": "E0012595",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65Q950TSJXXZ.htm"
+                },
+                {
+                  "title": "55英寸级 三星QLED 8K电视Q700T",
+                  "sort": 5,
+                  "salesprice": 12999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/1515948193584526503_293X293.jpg",
+                  "subtitle": "24期免息  每天低至17.8元起",
+                  "listprice": 13999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/1515948193584526503_293X293.jpg",
+                  "extentionCode": "E0012794",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA55Q700TAJXXZ.htm"
+                },
+                {
+                  "title": "75英寸级 三星QLED 8K电视Q700T",
+                  "sort": 3,
+                  "salesprice": 31999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/1515948193488331802_293X293.jpg",
+                  "subtitle": "24期免息  每天低至43.9元起",
+                  "listprice": 32999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/1515948193488331802_293X293.jpg",
+                  "extentionCode": "E0012792",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA75Q700TAJXXZ/1631.htm"
+                },
+                {
+                  "title": "65英寸级 三星QLED 8K电视Q700T",
+                  "sort": 4,
+                  "salesprice": 19499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/151594820123546183_293X293.jpg",
+                  "subtitle": "24期免息  每天低至26.8元起",
+                  "listprice": 21999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/151594820123546183_293X293.jpg",
+                  "extentionCode": "E0012793",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65Q700TAJXXZ/1631.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65Q700TAJXXZ.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/tvs/qled8k",
+              "uploaded_date": "20200916",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/16/0916_long_banner_8Ktv_1_292_712.jpg"
+            },
+            {
+              "listName": "量子点电视",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/21/0921_long_banner_Q7AT_750_310.jpg",
+              "sort": 2,
+              "items": [
+                {
+                  "title": "85英寸三星QLED光质量子点电视 Q80T (2020)",
+                  "sort": 2,
+                  "salesprice": 39999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/28/15933399163262269_293X293.jpg",
+                  "subtitle": "24期免息  每天低至54.8元起",
+                  "listprice": 41999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/28/15933399163262269_293X293.jpg",
+                  "extentionCode": "E0012596",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA85Q80TAJXXZ.htm"
+                },
+                {
+                  "title": "65英寸三星QLED光质量子点电视 Q80T (2020)",
+                  "sort": 3,
+                  "salesprice": 10999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/28/15933396557052690_293X293.jpg",
+                  "subtitle": "12期免息  每天低至30.2元起",
+                  "listprice": 12999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/28/15933396557052690_293X293.jpg",
+                  "extentionCode": "E0012598",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65Q80TAJXXZ.htm"
+                },
+                {
+                  "title": "75英寸三星QLED光质量子点电视 Q70T (2020)",
+                  "sort": 4,
+                  "salesprice": 12999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/2915960173817015882_293X293.jpg",
+                  "subtitle": "12期免息  每天低至35.7元起",
+                  "listprice": 14999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/2915960173817015882_293X293.jpg",
+                  "extentionCode": "E0012872",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA75Q70TAJXXZ.htm"
+                },
+                {
+                  "title": "65英寸级 三星QLED光质量子点电视 Q7AT（2020）",
+                  "sort": 1,
+                  "salesprice": 8499.00,
+                  "tag": "https://static.samsungeshop.com.cn/prod/resources/2020/9/24/tag_chang_red_xinpinshangshi.png",
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/9/1816004392361924453_293X293.jpg",
+                  "subtitle": "12期免息  每天低至24元起",
+                  "listprice": 8499.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/9/1816004392361924453_293X293.jpg",
+                  "extentionCode": "E0012984",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65Q7ATAJXXZ/1631.htm"
+                },
+                {
+                  "title": "75英寸级 三星QLED光质量子点电视 Q7AT（2020）",
+                  "sort": 0,
+                  "salesprice": 14999.00,
+                  "tag": "https://static.samsungeshop.com.cn/prod/resources/2020/9/24/tag_chang_red_xinpinshangshi.png",
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/9/1816004381025708152_293X293.jpg",
+                  "subtitle": "12期免息  每天低至42元起",
+                  "listprice": 14999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/9/1816004381025708152_293X293.jpg",
+                  "extentionCode": "E0012985",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA75Q7ATAJXXZ/1631.htm"
+                },
+                {
+                  "title": "65英寸级 三星QLED光质量子点电视 Q70T (2020)",
+                  "sort": 5,
+                  "salesprice": 7499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/2915960170816159606_293X293.jpg",
+                  "subtitle": "12期免息  每天低至20.6元起",
+                  "listprice": 8499.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/2915960170816159606_293X293.jpg",
+                  "extentionCode": "E0012873",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65Q70TAJXXZ.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65Q7ATAJXXZ.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/tvs/qled",
+              "uploaded_date": "20200921",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/21/0921_long_banner_Q7AT_292_712.jpg"
+            },
+            {
+              "listName": "Lifestyle",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/16/0916_long_banner_Lifestyle_750_310.jpg",
+              "sort": 3,
+              "items": [
+                {
+                  "title": "65英寸级 三星QLED光质量子点电视 画壁 系列（2020）",
+                  "sort": 0,
+                  "salesprice": 11999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935360318358119_293X293.jpg",
+                  "subtitle": "24期免息  每天低至16.5元起",
+                  "listprice": 13999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935360318358119_293X293.jpg",
+                  "extentionCode": "E0012673",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA65LS03TAJXXZ.htm"
+                },
+                {
+                  "title": "55英寸级 三星QLED光质量子点电视 画境 系列 （2020）",
+                  "sort": 2,
+                  "salesprice": 8999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/2815986047517129960_293X293.jpg",
+                  "subtitle": "24期免息  每天低至12.4元起",
+                  "listprice": 8999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/2815986047517129960_293X293.jpg",
+                  "extentionCode": "E0012875",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA55LS01TAJXXZ/1534.htm"
+                },
+                {
+                  "title": "55英寸级 三星QLED光质量子点电视 画境 系列",
+                  "sort": 3,
+                  "salesprice": 8999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/22/15928289995833454_293X293.jpg",
+                  "subtitle": "24期免息  每天低至12.4元起",
+                  "listprice": 8999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/22/15928289995833454_293X293.jpg",
+                  "extentionCode": "E0012258",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA55LS01RAJXXZ.htm"
+                },
+                {
+                  "title": "49英寸级 三星QLED光质量子点电视 画境 系列 （2020）",
+                  "sort": 4,
+                  "salesprice": 7999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/22/15928300969704578_293X293.jpg",
+                  "subtitle": "24期免息  每天低至11元起",
+                  "listprice": 7999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/22/15928300969704578_293X293.jpg",
+                  "extentionCode": "E0012550",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA49LS01TAJXXZ.htm"
+                },
+                {
+                  "title": "43英寸级 三星QLED光质量子点电视 画境 系列 （2020）",
+                  "sort": 5,
+                  "salesprice": 6999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928819246581906_293X293.jpg",
+                  "subtitle": "24期免息  每天低至10元起",
+                  "listprice": 6999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928819246581906_293X293.jpg",
+                  "extentionCode": "E0012551",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA43LS01TAJXXZ.htm"
+                },
+                {
+                  "title": "55英寸级 三星QLED光质量子点电视 画壁 系列（2020）",
+                  "sort": 1,
+                  "salesprice": 9499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928832020044285_293X293.jpg",
+                  "subtitle": "24期免息  每天低至13.1元起",
+                  "listprice": 9499.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928832020044285_293X293.jpg",
+                  "extentionCode": "E0012674",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/QA55LS03TAJXXZ/1631.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/TV-Promotions202008second",
+              "linkurl": "https://www.samsungeshop.com.cn/search/tvs/lifestyle",
+              "uploaded_date": "20200916",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/16/0916_long_banner_Lifestyle_292_712.jpg"
+            },
+            {
+              "listName": "4K超高清",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/7/233/0701_long_banner_TU8800_1_750_310.jpg",
+              "sort": 4,
+              "items": [
+                {
+                  "title": "82英寸级 4K超高清电视 RU8000",
+                  "sort": 0,
+                  "salesprice": 13999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928812056528869_293X293.jpg",
+                  "subtitle": "12期免息  每天低至38.4元起",
+                  "listprice": 17999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/23/15928812056528869_293X293.jpg",
+                  "extentionCode": "E0011994",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/UA82RU8000JXXZ.htm"
+                },
+                {
+                  "title": "75英寸级 4K超高清电视 TU8800",
+                  "sort": 1,
+                  "salesprice": 7999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935945089312720_293X293.jpg",
+                  "subtitle": "12期免息  每天低至22元起",
+                  "listprice": 9999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935945089312720_293X293.jpg",
+                  "extentionCode": "E0012675",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/UA75TU8800JXXZ.htm"
+                },
+                {
+                  "title": "65英寸级 4K超高清电视 TU8800",
+                  "sort": 2,
+                  "salesprice": 5999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935934384472027_293X293.jpg",
+                  "subtitle": "6期免息  每天低至32.8元起",
+                  "listprice": 7499.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935934384472027_293X293.jpg",
+                  "extentionCode": "E0012676",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/UA65TU8800JXXZ.htm"
+                },
+                {
+                  "title": "55英寸级 4K超高清电视 TU8800",
+                  "sort": 3,
+                  "salesprice": 3999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935924291969314_293X293.jpg",
+                  "subtitle": "购机优惠1000元",
+                  "listprice": 4999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/1/15935924291969314_293X293.jpg",
+                  "extentionCode": "E0012677",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/UA55TU8800JXXZ.htm"
+                },
+                {
+                  "title": "65英寸级 4K超高清电视 RU7550",
+                  "sort": 5,
+                  "salesprice": 3799.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/2/15936825871687619_293X293.jpg",
+                  "subtitle": "购机优惠2700元",
+                  "listprice": 6499.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/2/15936825871687619_293X293.jpg",
+                  "extentionCode": "E0012139",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/UA65RU7550JXXZ.htm"
+                },
+                {
+                  "title": "55英寸级 4K超高清电视 RU7520",
+                  "sort": 5,
+                  "salesprice": 2499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/22/15928225833257780_293X293.jpg",
+                  "subtitle": "购机优惠1200元",
+                  "listprice": 3699.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/22/15928225833257780_293X293.jpg",
+                  "extentionCode": "E0012140",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/UA55RU7520JXXZ/1631.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/search/tvs/uhd",
+              "linkurl": "https://www.samsungeshop.com.cn/search/tvs/uhd",
+              "uploaded_date": "20200701",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/7/233/0701_long_banner_TU8800_1_292_712.jpg"
+            },
+            {
+              "listName": "音响",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/16/0916_long_banner_HWQ950T_750_310.jpg",
+              "sort": 5,
+              "items": [
+                {
+                  "title": "回音壁条形音响 HW-Q950T",
+                  "sort": 0,
+                  "salesprice": 12999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946363957598913_293X293.jpg",
+                  "subtitle": "购机优惠1991元 享至高24期免息",
+                  "listprice": 14990.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946363957598913_293X293.jpg",
+                  "extentionCode": "E0012797",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/HW-Q950T/100.htm"
+                },
+                {
+                  "title": "回音壁条形音响 HW-Q900T",
+                  "sort": 1,
+                  "salesprice": 7499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946360520954901_293X293.jpg",
+                  "subtitle": "购机优惠2491元 享至高12期免息",
+                  "listprice": 9990.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946360520954901_293X293.jpg",
+                  "extentionCode": "E0012791",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/HW-Q900T/100.htm"
+                },
+                {
+                  "title": "回音壁条形音响 HW-Q70T",
+                  "sort": 2,
+                  "salesprice": 3999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946353123771488_293X293.jpg",
+                  "subtitle": "购机优惠1991元",
+                  "listprice": 5990.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946353123771488_293X293.jpg",
+                  "extentionCode": "E0012721",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/HW-Q70T/100.htm"
+                },
+                {
+                  "title": "回音壁条形音响 HW-Q60T",
+                  "sort": 3,
+                  "salesprice": 2999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946346723659727_293X293.jpg",
+                  "subtitle": "购机优惠1491元",
+                  "listprice": 4490.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/7/13/15946346723659727_293X293.jpg",
+                  "extentionCode": "E0012722",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/HW-Q60T/100.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/HW-Q950T.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/tvs/audio",
+              "uploaded_date": "20200916",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/16/0916_long_banner_HWQ950T_292_712.jpg"
+            },
+            {
+              "listName": "显示器",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/14/0914_long_banner_display_750_310.jpg",
+              "sort": 6,
+              "items": [
+                {
+                  "title": "49英寸 曲面液晶显示器 C49G95TSSC",
+                  "sort": 0,
+                  "salesprice": 9999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984418320136289_293X293.jpg",
+                  "subtitle": "优惠2000元",
+                  "listprice": 11999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984418320136289_293X293.jpg",
+                  "extentionCode": "E0012735",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/LC49G95TSSCXXF.htm"
+                },
+                {
+                  "title": "48.8英寸 曲面超宽显示器 C49RG90SSC",
+                  "sort": 1,
+                  "salesprice": 8499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984414569122543_293X293.jpg",
+                  "subtitle": "优惠500元",
+                  "listprice": 8999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984414569122543_293X293.jpg",
+                  "extentionCode": "E0011883",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/LC49RG90SSCXXF.htm"
+                },
+                {
+                  "title": "32英寸 曲面液晶显示器 LC32G75TQSC",
+                  "sort": 2,
+                  "salesprice": 5799.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984425511262788_293X293.jpg",
+                  "subtitle": "优惠200元",
+                  "listprice": 5999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984425511262788_293X293.jpg",
+                  "extentionCode": "E0012720",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/LC32G75TQSCXXF.htm"
+                },
+                {
+                  "title": "27英寸 曲面液晶显示器 LC27G75TQSC",
+                  "sort": 3,
+                  "salesprice": 4799.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/261598442132110215_293X293.jpg",
+                  "subtitle": "优惠200元",
+                  "listprice": 4999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/261598442132110215_293X293.jpg",
+                  "extentionCode": "E0012719",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/LC27G75TQSCXXF.htm"
+                },
+                {
+                  "title": "32英寸 曲面液晶显示器 C32T550FDC",
+                  "sort": 4,
+                  "salesprice": 1949.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984417145792854_293X293.jpg",
+                  "subtitle": "优惠50元",
+                  "listprice": 1999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984417145792854_293X293.jpg",
+                  "extentionCode": "E0012530",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/LC32T550FDCXXF.htm"
+                },
+                {
+                  "title": "27英寸 曲面液晶显示器 C27T550FDC",
+                  "sort": 5,
+                  "salesprice": 1499.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984424226951733_293X293.jpg",
+                  "subtitle": "优惠100元",
+                  "listprice": 1599.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/2615984424226951733_293X293.jpg",
+                  "extentionCode": "E0012529",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/LC27T550FDCXXF.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/LC49G95TSSCXXF.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/search/tvs/monitors",
+              "uploaded_date": "20200914",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/9/14/0914_long_banner_display_292_712.jpg"
+            }
+          ],
+          "moreUrl": "https://www.samsungeshop.com.cn/search/tvs"
+        }
+      ]
+    },
+    "wearableItem": {
+      "sort": 2,
+      "lists": [
+        {
+          "wear_list": [
+            {
+              "time": 5,
+              "sort": 1,
+              "uploaded_date": "20200813",
+              "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/8/13/0813_MKV_watch3_1220_184.jpg",
+              "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/8/13/0813_MKV_watch3_750_310.jpg",
+              "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyNewProduct2020",
+              "isShow": 1
+            }
+          ],
+          "title": "可穿戴设备",
+          "categorys": [
+            {
+              "listName": "可穿戴设备",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_banner_Budslive_750_310.jpg",
+              "sort": 0,
+              "items": [
+                {
+                  "title": "Samsung Galaxy Buds Live",
+                  "sort": 0,
+                  "salesprice": 1199.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/10159705463047615_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 1199.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/10159705463047615_293X293.jpg",
+                  "extentionCode": "T090396",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-R180.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Watch3 蓝牙版 45mm",
+                  "sort": 2,
+                  "salesprice": 3099.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/515966149543124413_293X293.jpg",
+                  "subtitle": "新品上市 现货发售",
+                  "listprice": 3099.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/515966149543124413_293X293.jpg",
+                  "extentionCode": "T090384",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-R840.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Watch Active2 蓝牙版 44mm 不锈钢版",
+                  "sort": 5,
+                  "salesprice": 2899.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/25/15693978282714122_293X293.jpg",
+                  "subtitle": "享6期免息",
+                  "listprice": 2899.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/25/15693978282714122_293X293.jpg",
+                  "extentionCode": "T090259",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-R820A.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Buds+ BTS定制版",
+                  "sort": 1,
+                  "salesprice": 1599.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/19/15925712661695166_293X293.jpg",
+                  "subtitle": "享至高12期免息",
+                  "listprice": 1599.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/19/15925712661695166_293X293.jpg",
+                  "extentionCode": "T090370",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-R175BTS.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Buds+",
+                  "sort": 4,
+                  "salesprice": 999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/6/4/15912631633562268_293X293.jpg",
+                  "subtitle": "享6期免息 赠好礼",
+                  "listprice": 999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/6/4/15912631633562268_293X293.jpg",
+                  "extentionCode": "T090356",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-R175.htm"
+                },
+                {
+                  "title": "Samsung Galaxy Watch3 蓝牙版 41mm",
+                  "sort": 3,
+                  "salesprice": 2999.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/515966141373042091_293X293.jpg",
+                  "subtitle": "新品上市 现货发售",
+                  "listprice": 2999.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/515966141373042091_293X293.jpg",
+                  "extentionCode": "T090386",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/SM-R850.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyNewProduct2020",
+              "linkurl": "https://www.samsungeshop.com.cn/search/wearables",
+              "uploaded_date": "20200827",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/27/0827_long_banner_Budslive_292_712.jpg"
+            }
+          ],
+          "moreUrl": "https://www.samsungeshop.com.cn/search/wearables"
+        }
+      ]
+    },
+    "topKv": {
+      "lists": [
+        {
+          "sort": 2,
+          "uploaded_date": "20200923",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/23/0923_Top_banner_S20fe_PC_396_225.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/23/0923_Top_banner_S20fe_M_335_295.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyS20FE"
+        },
+        {
+          "sort": 0,
+          "uploaded_date": "20200914",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/9/0908_Top_banner_Fold2_PC_396_225.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/9/0908_Top_banner_Fold2_M_335_600.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyZFold2"
+        },
+        {
+          "sort": 1,
+          "uploaded_date": "20200911",
+          "pcImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/11/0809_Top_banner_S20_396_225.jpg",
+          "mobileImg": "https://static.samsungeshop.com.cn/prod/resources/2020/9/11/0809_Top_banner_S20_M_335_295.jpg",
+          "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/activity/galaxyS20"
+        }
+      ]
+    },
+    "accessoryItem": {
+      "sort": 6,
+      "lists": [
+        {
+          "wear_list": [
+            {
+              
+            }
+          ],
+          "title": "配件",
+          "categorys": [
+            {
+              "listName": "保护类",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_Banner_n20acc_M_750_310.jpg",
+              "sort": 0,
+              "items": [
+                {
+                  "title": "Galaxy Note20 Ultra 5G 硅胶保护壳",
+                  "sort": 0,
+                  "salesprice": 179.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970530784307680_293X293.jpg",
+                  "listprice": 179.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970530784307680_293X293.jpg",
+                  "extentionCode": "T090415",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EF-PN985.htm"
+                },
+                {
+                  "title": "Galaxy Note20 Ultra 5G 透明保护壳",
+                  "sort": 1,
+                  "salesprice": 259.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970506983203567_293X293.jpg",
+                  "listprice": 259.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970506983203567_293X293.jpg",
+                  "extentionCode": "T090400",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EF-GN985.htm"
+                },
+                {
+                  "title": "Galaxy Note20 5G 硅胶保护壳",
+                  "sort": 2,
+                  "salesprice": 179.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970533689625367_293X293.jpg",
+                  "listprice": 179.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970533689625367_293X293.jpg",
+                  "extentionCode": "T090410",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EF-PN980.htm"
+                },
+                {
+                  "title": "Galaxy Note20 5G 立式保护壳",
+                  "sort": 3,
+                  "salesprice": 259.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970538944142344_293X293.jpg",
+                  "listprice": 259.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1015970538944142344_293X293.jpg",
+                  "extentionCode": "T090417",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EF-RN980.htm"
+                },
+                {
+                  "title": "Galaxy Z Flip 5G透明保护壳",
+                  "sort": 4,
+                  "salesprice": 249.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/415965118881002988_293X293.jpg",
+                  "listprice": 249.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/415965118881002988_293X293.jpg",
+                  "extentionCode": "T090390",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EF-QF707.htm"
+                },
+                {
+                  "title": "Galaxy Note20 5G KVADRAT 环保织物保护壳",
+                  "sort": 5,
+                  "salesprice": 259.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/101597065328636742_293X293.jpg",
+                  "listprice": 259.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/101597065328636742_293X293.jpg",
+                  "extentionCode": "T090426",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EF-XN980.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/search/accessories/cover",
+              "linkurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/search/accessories",
+              "uploaded_date": "20200831",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_Banner_n20acc_292_712.jpg"
+            },
+            {
+              "listName": "电源类",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_banner_45lxc_683_396.jpg",
+              "sort": 1,
+              "items": [
+                {
+                  "title": "旅行充电器 25W",
+                  "sort": 0,
+                  "salesprice": 219.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/4/30/15882432116518295_293X293.jpg",
+                  "listprice": 219.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/4/30/15882432116518295_293X293.jpg",
+                  "extentionCode": "T090354",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EP-TA800.htm"
+                },
+                {
+                  "title": "双向加速充电移动电源 2020",
+                  "sort": 1,
+                  "salesprice": 249.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/3/20/15846946175469299_293X293.jpg",
+                  "listprice": 249.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/3/20/15846946175469299_293X293.jpg",
+                  "extentionCode": "T090351",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EB-P3300.htm"
+                },
+                {
+                  "title": "旅行充电器 45W",
+                  "sort": 2,
+                  "salesprice": 299.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/9/9/15680095586619278_293X293.jpg",
+                  "listprice": 299.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/9/9/15680095586619278_293X293.jpg",
+                  "extentionCode": "T090253",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EP-TA845.htm"
+                },
+                {
+                  "title": "无线加速充电板",
+                  "sort": 3,
+                  "salesprice": 228.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/3/6/15518415150113201_293X293.jpg",
+                  "listprice": 228.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/3/6/15518415150113201_293X293.jpg",
+                  "extentionCode": "T090100",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EP-P1100.htm"
+                },
+                {
+                  "title": "三星 旅行充电器 Type C",
+                  "sort": 4,
+                  "salesprice": 108.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2017/4/25/14931092631565933_293X293.jpg",
+                  "listprice": 108.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2017/4/25/14931092631565933_293X293.jpg",
+                  "extentionCode": "E0009655",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EP-TA200C.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/EP-TA845.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/search/accessories/battery",
+              "uploaded_date": "20200831",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_banner_45lxc_292_712.jpg"
+            },
+            {
+              "listName": "音频类",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_Banner_AKG_Y100_M_750_310.jpg",
+              "sort": 2,
+              "items": [
+                {
+                  "title": "AKG Y500BT 贴耳式无线蓝牙耳机",
+                  "sort": 0,
+                  "salesprice": 799.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/3/14/15525742179029181_293X293.jpg",
+                  "listprice": 1299.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/3/14/15525742179029181_293X293.jpg",
+                  "extentionCode": "T090141",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-Y500.htm"
+                },
+                {
+                  "title": "AKG Y100BT 颈挂式无线蓝牙耳机",
+                  "sort": 1,
+                  "salesprice": 699.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2019/3/14/15525745433508108_293X293.jpg",
+                  "listprice": 699.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2019/3/14/15525745433508108_293X293.jpg",
+                  "extentionCode": "T090136",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-Y100.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/GP-Y100.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/search/accessories/earphone",
+              "uploaded_date": "20200831",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_Banner_AKG_Y100_292_712.jpg"
+            },
+            {
+              "listName": "连接类",
+              "mobileFloorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_Banner_usbc_M_683_396.jpg",
+              "sort": 3,
+              "items": [
+                {
+                  "title": "三星 Micro USB-C 数据线",
+                  "sort": 0,
+                  "salesprice": 69.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2017/4/26/14931901337826270_293X293.jpg",
+                  "listprice": 69.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2017/4/26/14931901337826270_293X293.jpg",
+                  "extentionCode": "E0009654",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/CVSSUB3115W.htm"
+                },
+                {
+                  "title": "动感硅胶表带(22mm)",
+                  "sort": 1,
+                  "salesprice": 228.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972287079537848_293X293.jpg",
+                  "listprice": 228.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972287079537848_293X293.jpg",
+                  "extentionCode": "T090440",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/ET-YSU80.htm"
+                },
+                {
+                  "title": "动感硅胶表带(42mm)",
+                  "sort": 2,
+                  "salesprice": 228.00,
+                  "mobileImgmobile": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972284337002023_293X293.jpg",
+                  "listprice": 228.00,
+                  "pcImgpc": "//static.samsungeshop.com.cn/prod/resources/2020/8/1215972284337002023_293X293.jpg",
+                  "extentionCode": "T090436",
+                  "url": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/ET-YSU81.htm"
+                }
+              ],
+              "floorurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/item/CVSSUB3115W.htm",
+              "linkurl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/search/accessories/other",
+              "uploaded_date": "20200831",
+              "floorKv": "https://static.samsungeshop.com.cn/prod/resources/2020/8/31/0831_long_Banner_usbc_292_712.jpg"
+            }
+          ],
+          "moreUrl": "https://www.samsungeshop.com.cn/redirectPage?redirectPage=https://www.samsungeshop.com.cn/search/accessories"
+        }
+      ]
+    }
+  }
+}

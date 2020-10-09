@@ -1,0 +1,429 @@
+body, h1, h2, h3, h4, h5, h6, ol, ul, dl, li, dt, dd, p, form, input, textarea, select, tr, td, th, fieldset, legend {
+  margin: 0;
+  padding: 0; }
+
+body {
+  font-size: 16px;
+  width: 1800px;
+  background-color: #eeeeee; }
+
+ul, ol {
+  list-style: none; }
+
+a, u {
+  text-decoration: none; }
+
+b, strong {
+  font-weight: normal; }
+
+i, em {
+  font-style: normal; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  font-size: 16px; }
+
+img {
+  border: 0;
+  vertical-align: middle; }
+
+input, textarea, fieldset {
+  border: none;
+  outline: none; }
+
+.clearfn:after {
+  content: "";
+  clear: both;
+  display: block;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden; }
+
+.clearfn {
+  zoom: 1; }
+
+#div1 {
+  width: 100%;
+  height: 34px;
+  background-color: #f2f2f2; }
+  #div1 section {
+    float: left;
+    height: 100%; }
+  #div1 #left {
+    width: 980px;
+    font-size: 16px;
+    line-height: 34px; }
+    #div1 #left a {
+      margin-left: 217px;
+      color: #363636; }
+  #div1 #right {
+    width: 820px;
+    font-size: 12px;
+    line-height: 34px; }
+    #div1 #right a {
+      height: 20px;
+      width: 50px;
+      margin-left: 20px;
+      color: #363636; }
+      #div1 #right a img {
+        width: 15px;
+        height: 15px; }
+      #div1 #right a:hover {
+        color: blue; }
+
+#div2 {
+  width: 1580px;
+  height: 60px;
+  border-bottom: 3px #eeeeee solid; }
+  #div2 article {
+    float: left;
+    margin-right: 50px; }
+    #div2 article a {
+      display: block;
+      width: 125px;
+      height: 20px;
+      line-height: 60px;
+      margin-left: 220px; }
+      #div2 article a img {
+        width: 100%;
+        height: 100%; }
+  #div2 ul {
+    float: left;
+    margin-right: 60px; }
+    #div2 ul li {
+      margin-left: 30px;
+      float: left;
+      height: 30px; }
+      #div2 ul li a {
+        margin-top: 15px;
+        display: block;
+        height: 30px;
+        line-height: 30px;
+        border-radius: 40px;
+        font-size: 12px;
+        color: black; }
+      #div2 ul li .active {
+        background-color: black;
+        color: white; }
+  #div2 ol {
+    height: 100%; }
+    #div2 ol li {
+      margin-left: 30px;
+      float: left;
+      line-height: 60px; }
+      #div2 ol li a {
+        color: black; }
+        #div2 ol li a img {
+          width: 20px;
+          height: 20px; }
+
+#site-header {
+  width: 100%;
+  height: 170px;
+  background-color: white;
+  padding-left: 400px;
+  font-size: 12px;
+  display: none;
+  position: absolute;
+  z-index: 9999;
+  float: left; }
+  #site-header .container .childres-list {
+    width: 700px;
+    height: 170px;
+    position: absolute;
+    z-index: 9999; }
+    #site-header .container .childres-list li {
+      float: left;
+      margin-left: 40px; }
+      #site-header .container .childres-list li a {
+        text-align: center; }
+        #site-header .container .childres-list li a div {
+          color: black; }
+          #site-header .container .childres-list li a div img {
+            margin-top: 30px;
+            height: 85px; }
+
+#div3 {
+  width: 100%;
+  height: 50px;
+  line-height: 50px;
+  font-size: 12px;
+  border-bottom: 3px solid #eeeeee; }
+  #div3 p {
+    float: left;
+    margin-left: 220px; }
+  #div3 span {
+    color: blue; }
+
+#table {
+  width: 1580px;
+  background-color: #eeeeee; }
+  #table #header {
+    width: 1145px;
+    height: 60px;
+    background-color: white;
+    margin: 0 auto;
+    font-size: 18px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eeeeee; }
+    #table #header input {
+      width: 20px;
+      height: 20px;
+      margin-left: 20px;
+      margin-right: 20px; }
+    #table #header span:nth-of-type(1) {
+      margin-left: 100px; }
+    #table #header span:nth-of-type(2) {
+      margin-left: 370px;
+      margin-right: 100px; }
+    #table #header span:nth-of-type(3) {
+      margin-right: 110px; }
+    #table #header span:nth-of-type(4) {
+      margin-right: 100px; }
+  #table .shopping {
+    width: 1145px;
+    height: 140px;
+    background-color: white;
+    margin: 0 auto;
+    font-size: 18px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eeeeee; }
+    #table .shopping input {
+      margin-left: 20px;
+      float: left;
+      width: 20px;
+      height: 20px; }
+    #table .shopping img {
+      margin-left: 40px;
+      width: 70px;
+      height: 70px;
+      float: left;
+      margin-right: 20px; }
+    #table .shopping span {
+      float: left; }
+    #table .shopping span:nth-of-type(1) {
+      width: 445px;
+      height: 70px;
+      line-height: 70px;
+      padding-left: 30px; }
+    #table .shopping span:nth-of-type(2) {
+      width: 100px;
+      height: 70px;
+      line-height: 70px; }
+    #table .shopping .number {
+      box-sizing: border-box;
+      display: flex;
+      align-items: center;
+      float: left; }
+      #table .shopping .number button {
+        width: 40px;
+        height: 61px;
+        border: 2px  solid #eeeeee;
+        border-right: none;
+        float: left;
+        background-color: white;
+        font-size: 22px; }
+        #table .shopping .number button:hover {
+          background-color: #eeeeee; }
+      #table .shopping .number button:nth-of-type(2) {
+        width: 40px;
+        height: 61px;
+        border-left: none;
+        border-right: 1px solid #eeeeee; }
+      #table .shopping .number input {
+        border: 2px  solid #eeeeee;
+        margin-left: 0px;
+        float: left;
+        display: block;
+        width: 70px;
+        height: 57px;
+        background-color: white;
+        border-left: none;
+        border-right: none;
+        text-align: center;
+        font-size: 18px; }
+    #table .shopping span:nth-of-type(3) {
+      width: 100px;
+      height: 70px;
+      line-height: 70px;
+      text-align: center;
+      margin-right: 80px; }
+    #table .shopping .delete {
+      float: left;
+      border: none;
+      background-color: white; }
+      #table .shopping .delete:hover {
+        background-color: orange;
+        border-radius: 50%;
+        cursor: pointer; }
+  #table .total {
+    width: 1145px;
+    height: 60px;
+    background-color: white;
+    margin: 0 auto;
+    font-size: 18px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end; }
+    #table .total em {
+      font-size: 40px; }
+    #table .total button {
+      width: 200px;
+      height: 60px;
+      background-color: black;
+      border: none;
+      color: white;
+      cursor: pointer; }
+
+#shop-list {
+  width: 1225px;
+  margin: 0 0 0 180px; }
+  #shop-list .header-one {
+    width: 1225px;
+    margin: 0 auto;
+    height: 50px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center; }
+    #shop-list .header-one hr {
+      width: 390px;
+      height: 2px;
+      background-color: grey;
+      float: left;
+      border: none; }
+    #shop-list .header-one span {
+      float: left;
+      font-size: 25px;
+      color: grey; }
+
+#list {
+  width: 1165px;
+  height: 520px;
+  margin: 50px 0 0 200px; }
+  #list .ul-list {
+    width: 1165px;
+    background-color: #eeeeee;
+    height: 520px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap; }
+    #list .ul-list .item-list {
+      width: 210px;
+      height: 250px;
+      background-color: white;
+      margin-bottom: 10px;
+      margin-right: 10px;
+      float: left;
+      flex-shrink: 0;
+      text-align: center; }
+      #list .ul-list .item-list img {
+        width: 100%;
+        height: 60%; }
+      #list .ul-list .item-list p {
+        margin-bottom: 10px; }
+      #list .ul-list .item-list i {
+        margin-bottom: 10px;
+        display: block;
+        color: blue; }
+      #list .ul-list .item-list .add {
+        width: 150px;
+        height: 30px;
+        text-align: center;
+        color: orange;
+        font-weight: bold;
+        cursor: pointer; }
+
+#footer-one {
+  width: 1580px;
+  height: 135px;
+  margin-bottom: 25px; }
+  #footer-one .service-one {
+    width: 1145px;
+    height: 80%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center; }
+    #footer-one .service-one article {
+      margin-top: 40px;
+      width: 375px;
+      height: 100%;
+      float: left;
+      text-align: center;
+      box-sizing: border-box;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 12px;
+      border-right: 2px solid #eeeeee; }
+      #footer-one .service-one article img {
+        height: 30%;
+        margin-right: 20px; }
+      #footer-one .service-one article aside p {
+        margin-top: 5px; }
+
+#footer-two {
+  width: 1580px;
+  height: 200px; }
+  #footer-two .service-two {
+    width: 1145px;
+    height: 100%;
+    margin: 0 auto; }
+    #footer-two .service-two aside {
+      width: 250px;
+      height: 100%;
+      float: left;
+      text-align: center;
+      border-right: 2px solid #eeeeee; }
+      #footer-two .service-two aside h2 {
+        font-size: 16px;
+        font-weight: bold; }
+      #footer-two .service-two aside ul li a {
+        display: block;
+        margin-top: 3px;
+        font-size: 12px;
+        color: #333333; }
+
+#footer-three {
+  margin-left: 225px;
+  font-size: 12px; }
+
+#last {
+  width: 1580px;
+  height: 135px;
+  background-color: #525252; }
+  #last .left {
+    margin-left: 225px;
+    float: left;
+    padding-top: 20px; }
+    #last .left a {
+      color: white;
+      margin-top: 30px;
+      font-size: 12px;
+      font-weight: bold; }
+    #last .left aside {
+      margin-top: 10px;
+      font-size: 4px; }
+  #last .right {
+    margin-left: 50px;
+    float: left;
+    padding-top: 20px; }
+    #last .right p {
+      font-size: 12px;
+      font-weight: bold;
+      margin-bottom: 30px;
+      color: white; }
+    #last .right a {
+      display: block;
+      float: left;
+      color: white;
+      font-size: 8px; }
+      #last .right a img {
+        width: 20px;
+        height: 20px; }

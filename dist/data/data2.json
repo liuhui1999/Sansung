@@ -1,0 +1,27 @@
+[{
+    
+        "title":"智能手机","childs":[{
+            "id":"0","title":"Samsung","src":"www.baidu.com","img":"images/mo1.jpg"},{"id":"1","title":"Samsung","src":"www.baidu.com","img":"images/mo2.jpg"},{"id":"2","title":"Samsung","src":"www.baidu.com","img":"images/mo3.jpg"},{"id":"3","title":"Samsung","src":"www.baidu.com","img":"images/mo4.jpg"}]
+},
+{
+    
+    "title":"可穿戴设备","childs":[{
+        "id":"1","title":"Samsung","src":"www.baidu.com","img":"images/c1.jpg"},{"id":"1","title":"Samsung","src":"www.baidu.com","img":"images/c2.jpg"},{"id":"2","title":"Samsung","src":"www.baidu.com","img":"images/c3.jpg"},{"id":"3","title":"Samsung","src":"www.baidu.com","img":"images/c4.jpg"}]
+},{
+    
+    "title":"电视/影音/显示器","childs":[{
+        "id":"2","title":"Samsung","src":"www.baidu.com","img":"images/d1.jpg"},{"id":"1","title":"Samsung","src":"www.baidu.com","img":"images/d2.jpg"},{"id":"2","title":"Samsung","src":"www.baidu.com","img":"images/d3.jpg"},{"id":"3","title":"Samsung","src":"www.baidu.com","img":"images/d4.jpg"}]
+},
+{
+    
+    "title":"电脑/平板/存储","childs":[{
+        "id":"3","title":"Samsung","src":"www.baidu.com","img":"images/e1.jpg"},{"id":"1","title":"Samsung","src":"www.baidu.com","img":"images/e2.jpg"},{"id":"2","title":"Samsung","src":"www.baidu.com","img":"images/e3.jpg"},{"id":"3","title":"Samsung","src":"www.baidu.com","img":"images/e4.jpg"}]
+},{
+    
+    "title":"配件","childs":[{
+        "id":"4","title":"Samsung","src":"www.baidu.com","img":"images/f1.jpg"},{"id":"1","title":"Samsung","src":"www.baidu.com","img":"images/f2.jpg"},{"id":"2","title":"Samsung","src":"www.baidu.com","img":"images/f3.jpg"},{"id":"3","title":"Samsung","src":"www.baidu.com","img":"images/d4.jpg"}]
+},{
+    
+    "title":"智能家居","childs":[{
+        "id":"5","title":"Samsung","src":"www.baidu.com","img":"images/h1.jpg"},{"id":"1","title":"Samsung","src":"www.baidu.com","img":"images/h2.jpg"},{"id":"2","title":"Samsung","src":"www.baidu.com","img":"images/h3.jpg"},{"id":"3","title":"Samsung","src":"www.baidu.com","img":"images/h4.jpg"}]
+}]
